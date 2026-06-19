@@ -70,4 +70,4 @@ Get the pink furry hand cuffs by adding them to a store and buying them or using
 
 # Support
 [I_AM_FULLYCRX Official Discord](https://discord.gg/6QchSKDY7j)
-[Iron Justice Roleplay Discord](https://discord.gg/YJXZagSzh7)
+[Iron Justice Roleplay Official Discord](https://discord.gg/YJXZagSzh7)
