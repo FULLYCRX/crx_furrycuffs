@@ -16,7 +16,7 @@ ox_inventory & qb-inventory
 * Ensure crx_furrycuffs
 * Go to the README.md in crx_furry cuffs and add the item to your inventory system
 * Supports ox_inventory & qb-inventory and ox_target & qb-target
-```
+
 # Configuration
 Config = {}
 
@@ -55,11 +55,11 @@ Config.AttackerAnimName = "a_uncuff"
 Config.DisabledControls = {
     24, 25, 37, 44, 45, 140, 141, 142, 257, 263, 289
 }
-```
+
 
 # How to use #
 Get the pink furry hand cuffs by adding them to a store and buying them or using a command to give the item to your self, then find a player and third eye them and cuff them with the pink furry handcuffs
-```
+
 * start the server
 * ensure the resource has started in your console log
 * boom, your done.
