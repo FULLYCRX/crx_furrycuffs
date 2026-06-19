@@ -7,6 +7,9 @@ Or I will find you!!! >:(
 # crx_furrycuffs
 FiveM hand cuff players with furry hand cuffs
 
+# Dependencies
+qb-core & es_extended
+
 # Supported Invenvtories
 ox_inventory & qb-inventory
 
